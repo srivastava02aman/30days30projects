@@ -1,5 +1,5 @@
 # 30days-30projects.
-Tech Stack: 
+<h2>Tech Stack:</h2> 
 HTML
 CSS
 JavaScript
